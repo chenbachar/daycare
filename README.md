@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/chenbachar/daycare.png?label=ready&title=Ready)](https://waffle.io/chenbachar/daycare)
 # GanOn
 
 Where to find our code?
